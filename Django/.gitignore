@@ -1,0 +1,6 @@
+# ignore
+/include/
+/Lib/
+/Scripts/
+/.idea/
+/pyvenv.cfg
