@@ -4,6 +4,6 @@ from . import views
 
 
 app_name = 'diary'
-urlpatterns = {
+urlpatterns = [
     path('', views.IndexView.as_view(), name="index"),
-}
+]
