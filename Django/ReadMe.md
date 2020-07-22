@@ -10,6 +10,9 @@
  3. pip install django
  4. pip install mysqlclient
  5. https://startbootstrap.com/themes/one-page-wonder/
+ 6. docker でのmysqlのインストール　https://note.com/engineerfive/n/nba027a929625
+ 7. mysqlは5.6.38を利用
+ 
  
  ## 詰まったこととか。
  
